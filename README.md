@@ -1,5 +1,6 @@
-### Hello, World 👋
+# Hello World, Welcome to my Github Profile 👋
 
+Hello I'm Admon
 - 🔭 I’m currently working as a web developer
 - 🌱 I’m currently learning PHP, Node.js and Back-end Development
 
