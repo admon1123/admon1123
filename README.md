@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a web developer
+
 <!--
 **admon1123/admon1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
